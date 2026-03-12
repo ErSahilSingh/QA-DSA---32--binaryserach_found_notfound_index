@@ -1,10 +1,5 @@
 # QA-DSA---32--binaryserach_found_notfound_index
 
-/**
- * @param {number[]} nums
- * @param {number} target
- * @return {number}
- */
 var searchInsert = function(nums, target) {
     let left =0 
     let right= nums.length
